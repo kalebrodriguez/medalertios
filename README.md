@@ -1,4 +1,4 @@
-# medalert-app
+# medalertios
 Medication reminder app built with Swift, featuring scheduled alerts, tracking, and a clean healthcare-focused interface.
 
 # Features:
